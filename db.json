@@ -1,0 +1,98 @@
+[
+    {
+        "id_seance": 1,
+        "date": "01/10/2022",
+        "discipline" : ["Muscu", "Finess"],
+        "photo" : "https://contents.mediadecathlon.com/s820187/k$2bae6afc58f7b29aee0eb4756bd40f31/800x0/3293pt2194/4388xcr4388/je-debute-la-musculation-par-quoi-commencer.jpg?format=auto&quality=80",
+        "exercices" : [
+            {
+                "id_exercice": 1,
+                "nom" : "dvp Couché" ,
+                "discipline_exercice": "Muscu",
+                "description": "",
+                "nbre_serie": 5,
+                "masse": 20,
+                "outils": "barre"
+
+            },
+            {
+                "id_exercice": 2,
+                "nom" : "dvp incliné" ,
+                "discipline_exercice": "Muscu",
+                "description": "",
+                "nbre_serie": 5,
+                "masse": 20,
+                "outils": "altères"
+            },
+            {
+                "id_exercice": 3,
+                "nom" : "push down" ,
+                "discipline_exercice": "Finess",
+                "description": "",
+                "nbre_serie": 5,
+                "masse": [34,50,54,59,64]
+            }
+        ]
+    },
+    {
+        "id_seance": 2,
+        "date": "05/11/2022",
+        "discipline" : ["Muscu", "Finess", "Cardio"],
+        "photo": "https://contents.mediadecathlon.com/s820189/k$60a0f8bf079bd8062a3e52fc85d2a091/800x0/3216pt2439/4287xcr4287/default.jpg?format=auto&quality=80",
+        "exercices" : [
+            {
+                "id_exercice": 1,
+                "nom" : "dvp Couché" ,
+                "discipline_exercice": "Muscu",
+                "description": "",
+                "nbre_serie": 3,
+                "masse": 24,
+                "outils": "altères"
+
+            },
+            {
+                "id_exercice": 2,
+                "nom" : "push down" ,
+                "discipline_exercice": "Finess",
+                "description": "",
+                "nbre_serie": 4,
+                "masse": [30,34,39,50]
+            },
+            {
+                "id_exercice": 3,
+                "nom" : "Course sur tapis" ,
+                "discipline_exercice": "Cardio",
+                "description": "",
+                "nbre_km": 10,
+                "vitesse_moyenne": 10,
+                "duree": 20  
+            }
+        ]
+    },
+    {
+        "id_seance": 3,
+        "date": "05/11/2022",
+        "discipline" : ["Finess", "Cardio"],
+        "photo": "https://contents.mediadecathlon.com/s820189/k$60a0f8bf079bd8062a3e52fc85d2a091/800x0/3216pt2439/4287xcr4287/default.jpg?format=auto&quality=80",
+        "exercices" : [
+            
+            {
+                "id_exercice": 1,
+                "nom" : "push down" ,
+                "discipline_exercice": "Finess",
+                "description": "",
+                "nbre_serie": 4,
+                "masse": [30,34,39,50]
+            },
+            {
+                "id_exercice": 2,
+                "nom" : "Course sur tapis" ,
+                "discipline_exercice": "Cardio",
+                "description": "",
+                "nbre_km": 10,
+                "vitesse_moyenne": 10,
+                "duree": 20  
+            }
+        ]
+    }
+]
